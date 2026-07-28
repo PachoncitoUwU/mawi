@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Mawi",
+    "slug": "mawi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FBFBFD"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FBFBFD"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
